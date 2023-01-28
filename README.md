@@ -3,8 +3,8 @@
 
 ### My GitHub Stats:
 <div align="center"><br>
-<a href="https://github.com/DrikaDev"><img width ="40%" src="https://github-readme-stats.vercel.app/api?username=WesleyChristian&show_icons=true&theme=dracula" alt="GitHub Stats"/></a>
-<a href="https://github.com/DrikaDev"><img width ="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyChristian&layout=compact&theme=dracula" alt="Top Languages" /></a>
+<a href="https://github.com/WesleyChristian"><img width ="40%" src="https://github-readme-stats.vercel.app/api?username=WesleyChristian&show_icons=true&theme=dracula" alt="GitHub Stats"/></a>
+<a href="https://github.com/WesleyChristian"><img width ="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyChristian&layout=compact&theme=dracula" alt="Top Languages" /></a>
 </div>
 
 ##
